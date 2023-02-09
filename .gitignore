@@ -1,0 +1,16 @@
+# OSX
+#
+.DS_Store
+
+# VSCode
+*.code-workspace
+
+# node.js
+#
+node_modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Code editors
+.vscode
